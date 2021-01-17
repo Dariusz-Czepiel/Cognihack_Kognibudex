@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="180.11" height="180.11" viewBox="0 0 180.11 180.11">
+  <g>
+    <g>
+      <line x1="73.043" y1="50.692" x2="55.241" y2="63.945" fill="none" stroke="#1c1d2f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <line x1="107.066" y1="50.692" x2="124.868" y2="63.945" fill="none" stroke="#1c1d2f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      <g>
+        <path d="M90.055,47.329,121.7,33.681l3.165,17.209V63.945l9.3,18.2-6.231,42.527L90.058,146.43,52.179,124.672,45.948,82.145l9.3-18.2V50.89l3.165-17.209Z" fill="none" stroke="#1c1d2f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path d="M113.3,81.154,99.054,85.7l11.769,22.648-7.418,15.923-13.352-6.132,9.1-7.516L95.692,104.2H84.417l-3.461,6.429,9.1,7.516L76.7,124.274l-7.418-15.923L81.055,85.7,66.813,81.154" fill="none" stroke="#1c1d2f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+        <path d="M103.406,124.274l-13.352,4.648L76.7,124.274" fill="none" stroke="#1c1d2f" stroke-linecap="round" stroke-linejoin="round" stroke-width="3"/>
+      </g>
+    </g>
+    <circle cx="90.055" cy="90.055" r="85.055" fill="none" stroke="#1c1d2f" stroke-linecap="round" stroke-linejoin="round" stroke-width="10"/>
+  </g>
+</svg>

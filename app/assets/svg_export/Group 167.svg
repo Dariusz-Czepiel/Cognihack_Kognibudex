@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="324.229" height="120.3" viewBox="0 0 324.229 120.3">
+  <defs>
+    <clipPath id="a" transform="translate(114.084 19.23)">
+      <circle cx="46.5" cy="46.5" r="46.5" fill="none"/>
+    </clipPath>
+  </defs>
+  <g>
+    <g clip-path="url(#a)">
+      <g>
+        <path d="M201.47,49.068l6.923-4.653-6.961-4.678" transform="translate(114.084 19.23)" fill="none" stroke="#494949" stroke-miterlimit="10" stroke-width="1.955"/>
+        <path d="M207.314,46.883l-321.394-1.24" transform="translate(114.084 19.23)" fill="none" stroke="#494949" stroke-width="1.846"/>
+        <line x1="160.584" y1="0.01" x2="161.824" y2="120.29" fill="none" stroke="#494949" stroke-miterlimit="10" stroke-width="1.962"/>
+        <path d="M-114.08,28.861c32.138,0,32.138,31.084,64.274,31.084s32.139-31.084,64.278-31.084S46.611,59.945,78.75,59.945s32.142-31.084,64.282-31.084,32.141,31.084,64.281,31.084" transform="translate(114.084 19.23)" fill="none" stroke="#75c9ab" stroke-miterlimit="10" stroke-width="1.846"/>
+      </g>
+    </g>
+    <g>
+      <circle cx="160.584" cy="65.73" r="46.5" fill="none"/>
+      <circle cx="160.584" cy="65.73" r="46" fill="none" stroke="#707070"/>
+    </g>
+  </g>
+</svg>
